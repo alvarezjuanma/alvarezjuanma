@@ -12,7 +12,7 @@ Whether it’s designing backend systems, building web apps, or managing data-dr
 
 
 ## 🌐 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/juanmanuelalvarezs/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanmanuelalvarezs/)
 
 
 
@@ -43,7 +43,7 @@ Whether it’s designing backend systems, building web apps, or managing data-dr
 
 ## 📂 Featured Projects
 - [PropertyRentalManagement](https://github.com/alvarezjuanma/PropertyRentalManagement) – Property rental management system (C# backend + Web + DB).  
-- (Add more projects here as you create them.)
+
 
 
 
