@@ -1,23 +1,20 @@
-<!-- HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Juan%20Alvarez&animation=fadeIn&color=gradient&height=100" alt="Juan Alvarez" />
+
+<p align="center" style="zoom: 1.05;">
+  <img src="https://img.shields.io/badge/Juan%20Alvarez-Software%20Developer-2F4F4F?style=for-the-badge&logo=github&logoColor=white" alt="Juan Alvarez" />
 </p>
 
-# 👋 Hi, I'm Juan Alvarez
 
----
 
 ## 🧰 About Me
-I'm a developer passionate about creating digital solutions that make a difference. I specialize in web projects, automation, and data management, and I always focus on building tools that solve real problems and add value.
+I'm Juan, a junior developer passionate about creating digital solutions that make a difference. I specialize in web projects, automation, and data management, and I always focus on building tools that solve real problems and add value.
 I enjoy exploring emerging technologies and applying them to projects, finding smarter ways to automate processes, improve workflows, and make applications more efficient. Known for being proactive and solution-oriented, I thrive on tackling challenges that push me to grow and deliver impactful results.
 Whether it’s designing backend systems, building web apps, or managing data-driven tools, I aim to create solutions that are practical, scalable, and useful for real-world applications.
 
----
 
 ## 🌐 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/juanmanuelalvarezs/)
 
----
+
 
 ## 💻 Tech Stack
 <p align="left">
@@ -35,28 +32,28 @@ Whether it’s designing backend systems, building web apps, or managing data-dr
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
----
+
 
 ## 📂 Featured Projects
 - [PropertyRentalManagement](https://github.com/alvarezjuanma/PropertyRentalManagement) – Property rental management system (C# backend + Web + DB).  
 - (Add more projects here as you create them.)
 
----
+
 
 ## 📊 GitHub Stats
 [![Juan’s GitHub stats](https://github-readme-stats.vercel.app/api?username=alvarezjuanma&show_icons=true&theme=radical)](https://github.com/alvarezjuanma)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarezjuanma&layout=compact&theme=radical)](https://github.com/alvarezjuanma)
 
----
+
 
 ## 🚀 Current Focus
 - Exploring: .NET ecosystem, web development, and automation  
 - Learning: Cloud architectures and advanced C# patterns
 
----
+
 
 > 📫 Open to collaborations, challenging projects, and opportunities in Toronto within the Latin startup ecosystem. Let's connect!
 
----
+
 
 **Thanks for stopping by! Let’s write more code, make fewer mistakes, and create real impact.**
